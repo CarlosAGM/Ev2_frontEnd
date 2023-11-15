@@ -173,7 +173,7 @@ button:active {
   transform: scale(0, 9);
 }
 
-@media (max-width: 858px) {
+@media (max-width: 900px) {
   .checkbtn {
     display: block;
   }
